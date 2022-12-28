@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django and DjangoRestFrameWork
 - 📫 How to reach me : you can email me or send message in Telegram or Instagram:
      - 📬 Email : nmirakbarova03@gmail.com
-     - 🕊 Telegram : t.me/JustProgrammer03
+     - 🕊 Telegram : https://t.me/JustProgrammer03
      - 🎯 Instagram : https://www.instagram.com/thisisjusteee/
 
 <!---
