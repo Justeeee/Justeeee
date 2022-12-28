@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Django and DjangoRestFrameWork
 - 📫 How to reach me : you can email me or send message in Telegram or Instagram:
      - 📬 Email : nmirakbarova03@gmail.com
-     - 🕊 Telegram : @JustProgrammer03
-     - 🎯 Instagram : @thisisjusteee
+     - 🕊 Telegram : t.me/JustProgrammer03
+     - 🎯 Instagram : https://www.instagram.com/thisisjusteee/
 
 <!---
 Justeeee/Justeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
