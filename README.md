@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Justeee?tab=repositories)
+- 👨‍💻 All of my projects are available at **https://github.com/Justeee?tab=repositories**
 
 - 💬 Ask me about **Python, Scratch, Algorithms and etc.**
 
