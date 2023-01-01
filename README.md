@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **Python, Scratch, Algorithms and etc.**
 
-- 📫 How to reach me : 
-         - **nmirakbarova03@gmail.com**
-         - **t.me/JustProgrammer03**
+- 📫 How to reach me : **nmirakbarova03@gmail.com**, **https://t.me/JustProgrammer03**
 - ⚡ Fun fact **1 in 5,000 north Atlantic lobsters are born bright blue. There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum). A skunk's smell can be detected by a human a mile away. The word "lethologica" describes the state of not being able to remember the word you want.**
 
 <h3 align="left">Connect with me:</h3>
