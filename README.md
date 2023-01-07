@@ -23,14 +23,14 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-profile-trophy.vercel.app/?username=justeeee&theme=radical">
+<img src="https://github-profile-trophy.vercel.app/?username=justeeee">
 
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=justeeee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=justeeee&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="48%" height="190px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justeeee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="48%" height="190px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justeeee&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
-<p align="center"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=justeeee&theme=tokyonight&hide_border=true" alt="justeeee" /></p>
+<p align="center"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=justeeee&hide_border=true" alt="justeeee" /></p>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=justeeee&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/justeeee)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=justeeee&bg_color=FFFFFF&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/justeeee)
