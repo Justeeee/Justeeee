@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/JustProgrammer03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisisjusteee)[![Gmail](https://img.shields.io/badge/nmirakbarova03@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:nmirakbarova03@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Just_03)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/JustProgrammer03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justeee_03)[![Gmail](https://img.shields.io/badge/nmirakbarova03@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:nmirakbarova03@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/Just_03)
 
 
 
