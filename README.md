@@ -32,5 +32,3 @@
 </p>
 <br/>
 <p align="center"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=justeeee&hide_border=true" alt="justeeee" /></p>
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=justeeee&bg_color=FFFFFF&line=6fa5fc&point=000000&color=000000&area=true&hide_border=true)](https://github.com/justeeee)
